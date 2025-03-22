@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Portfolio building Website",
+      "description": "Portfolio builder written website. React , MongoDB, ExpressJS, NodeJS , Typescript",
+      "link": "https://e-comm-h75a-phjafv6j4-augustinas-projects-5bb8388d.vercel.app/"
+    },
+    {
+      "id": 2,
+      "title": "E-commerce website(Not Finished)",
+      "description": "E-commerce website where you can order electronics. React , Next.js, Typescript, Tailwind",
+      "link": "https://e-comm-vert-psi.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "Pokemon Discovery tool",
+      "description": "Discover your favourite pokemon and view their stats. Learnt fetching data from objects",
+      "link": "https://pokemon-search-app-phi.vercel.app/"
+    }
+  ]
+  
